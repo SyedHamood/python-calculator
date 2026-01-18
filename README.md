@@ -14,7 +14,7 @@ This is a **GUI-based calculator built with Python and Tkinter**, designed to pr
 - Tkinter (built-in GUI library)
 
 ### Screenshots
-*(Include screenshots of the calculator here to show the interface)*
+![Calculator Screenshot](calculator.png)
 
 ### Usage
 1. Clone the repository:  
